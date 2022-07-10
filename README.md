@@ -8,7 +8,7 @@
 
 
 # Live demo
-[Live Demo](https://bertrandmutangana.netlify.app/)
+[Live Demo](https://samportfolio42.netlify.app/)
 
 
 Additional description about the project and its features.
