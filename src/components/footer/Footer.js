@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BsLinkedin, BsGithub, BsMedium, BsDribbble,
+  BsLinkedin, BsGithub, BsMedium, BsTwitter,
 } from 'react-icons/bs';
 import { FaAngellist } from 'react-icons/fa';
 import './footer.css';
@@ -8,7 +8,7 @@ import './footer.css';
 const Footer = () => (
   <footer>
     <a className="footer__logo" href="#home">
-      BERTRAND
+      Mugisha
     </a>
     <ul className="permalinks">
       <li>
@@ -36,41 +36,40 @@ const Footer = () => (
 
     <div className="footer__socials">
       <a
-        href="https://www.linkedin.com/in/bertrandmutangana/"
+        href="https://www.linkedin.com/in/mugisha-samuel-55a905208/"
         target="_blank"
         rel="noreferrer"
       >
         <BsLinkedin />
       </a>
       <a
-        href="https://angel.co/u/bertrand-mutangana"
+        href="https://angel.co/u/mugisha-samuel"
         target="_blank"
         rel="noreferrer"
       >
         <FaAngellist />
       </a>
       <a
-        href="https://github.com/BertrandConxy"
+        href="https://github.com/mugishasam123"
         target="_blank"
         rel="noreferrer"
       >
         <BsGithub />
       </a>
       <a
-        href="https://medium.com/@BertrandMutangana/"
+        href="https://medium.com/@mugishasamuel400"
         target="_blank"
         rel="noreferrer"
       >
         <BsMedium />
       </a>
-      <a href="https://dribbble.com/Conxy" target="_blank" rel="noreferrer">
-        <BsDribbble />
+      <a href="https://twitter.com/mugishasamuel42/" target="_blank" rel="noreferrer">
+        <BsTwitter />
       </a>
     </div>
 
     <div className="footer__copyright">
-      <small>&copy; Bertrand Mutangana portfolio. All rights reserved.</small>
-      <small>Design was inspired by EGATOR designer</small>
+      <small>&copy; Mugisha Samuel portfolio. All rights reserved.</small>
     </div>
   </footer>
 );

@@ -1,11 +1,8 @@
 import React from 'react';
 import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import client1 from '../../assets/Juubix.png';
-import client2 from '../../assets/Benjamin.png';
-import client3 from '../../assets/Selma.png';
-import client4 from '../../assets/Daniel.png';
-import client5 from '../../assets/Samuel.png';
+import client1 from '../../assets/conxy.png';
+import client2 from '../../assets/joel.PNG';
 import './testimonials.css';
 import 'swiper/css';
 import 'swiper/css/pagination';
@@ -14,41 +11,17 @@ const testimonials = [
   {
     id: 1,
     avatar: client1,
-    name: 'Juubix ltd',
+    name: 'Bertrand Mutangana Ishimwe',
     review:
-      'Bertrand is a team player, he is creative and comes up with new ideas. He works weel with fron tend and has developed an animation piece. He is extremely tenacious always trying to dohis part within team. His sheer positivity makes him likable and easy to work with. He is experienced in remote work and content creation. He is a deadline driven person. A company culture is the most desirable for him.',
+      'Having been together with Samuel for more than five years, I have learned and been inspired by him. He is a determined person who puts focus on his responsibilities till they are fulfilled. We have worked together on various projects. One of them was them was the library management system that we had to deliver in a period of a week and a half. We worked under pressure but Samuel always took the responsibility to plan how we will work to meet the project requirements and the deadline, he divided tasks among us and did not hesitate to work extra time so that we meet the deadline. This is one of the things that I have learned from him.',
   },
 
   {
     id: 2,
     avatar: client2,
-    name: 'Benjamin Semah',
+    name: 'Billions joel',
     review:
-      'I had the pleasure of working with Bertrand on the same team on multiple occasions. He is an excellent developer. He is quick to learn and pick up new skills. Another thing I also admire about him is how punctual he always was to our meetings. I am convinced he will do well in any organization he finds himself a part of.',
-  },
-
-  {
-    id: 3,
-    avatar: client3,
-    name: 'Selma Delhadj',
-    review:
-      'Bertrand is such a delightful person to have around. He is a great software developer and very hard working . He is innovative, organised as well as helpful and is always open to ideas and suggestions. I recommend Bertrand as an experienced software developer that will add value to any organisation.',
-  },
-
-  {
-    id: 4,
-    avatar: client4,
-    name: 'Daniel Yerimah',
-    review:
-      'Bertrand is a very smart and exciting person to work with. Highly efficient and quick to master new technologies. His ability to carefully articulate a problem, profer solutions and effectively communicate logically is remarkable.',
-  },
-
-  {
-    id: 5,
-    avatar: client5,
-    name: 'Samuel Mugisha',
-    review:
-      'Being with Bertrand I learned different things from him which now are still helping me like being humble, courageous, and hard work. moreover, He does things in a simple way like implementing complex ideas into simple algorithms.',
+      'Mugisha is a very inquisitive person with an urge to learn. He is committed and loves working.',
   },
 ];
 

@@ -66,7 +66,7 @@ const Experience = () => (
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icons" />
             <div>
-              <h4>PHP</h4>
+              <h4>Ruby</h4>
               <small className="text-light">Intermediate</small>
             </div>
           </article>
@@ -74,7 +74,7 @@ const Experience = () => (
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icons" />
             <div>
-              <h4>MYSQL</h4>
+              <h4>Ruby on rails</h4>
               <small className="text-light">Intermediate</small>
             </div>
           </article>
@@ -82,7 +82,7 @@ const Experience = () => (
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icons" />
             <div>
-              <h4>RUBY</h4>
+              <h4>Node js</h4>
               <small className="text-light">Beginner</small>
             </div>
           </article>
@@ -90,7 +90,7 @@ const Experience = () => (
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icons" />
             <div>
-              <h4>NODE.JS</h4>
+              <h4>Express js</h4>
               <small className="text-light">Beginner</small>
             </div>
           </article>
@@ -98,8 +98,16 @@ const Experience = () => (
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icons" />
             <div>
-              <h4>PYTHON</h4>
-              <small className="text-light">Beginner</small>
+              <h4>Postgresql</h4>
+              <small className="text-light">Intermediate</small>
+            </div>
+          </article>
+
+          <article className="experience__details">
+            <BsPatchCheckFill className="experience__details-icons" />
+            <div>
+              <h4>Mysql</h4>
+              <small className="text-light">Intermediate</small>
             </div>
           </article>
         </div>

@@ -28,9 +28,9 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>Bertrand Mutangana</h5>
+            <h5>Mugisha Samuel</h5>
             <a
-              href="mailto:mutanganabertrand@gmail.com"
+              href="mailto:mugishasamuel400@@gmail.com"
               target="_blank"
               rel="noreferrer"
               onClick={() => gaEventTracker('Direct Email')}
@@ -42,9 +42,9 @@ const Contact = () => {
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
-            <h5>Bertrand Mutangana</h5>
+            <h5>Mugisha Samuel</h5>
             <a
-              href="https://m.me/bertrandMutangana"
+              href="https://m.me/mugisha.samuel.9256"
               target="_blank"
               rel="noreferrer"
               onClick={() => gaEventTracker('Via Messenger')}
@@ -56,9 +56,9 @@ const Contact = () => {
           <article className="contact__option">
             <RiWhatsappLine className="contact__option-icon" />
             <h4>Whatsapp</h4>
-            <h5>Bertrand Mutangana</h5>
+            <h5>Mugisha Samuel</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+250784274110"
+              href="https://api.whatsapp.com/send?phone=+250783066178"
               target="_blank"
               rel="noreferrer"
               onClick={() => gaEventTracker('Via Whatsapp')}
