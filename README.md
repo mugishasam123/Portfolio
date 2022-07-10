@@ -70,11 +70,11 @@ $ runs on http://localhost:3000/
 
 ## Author
 
-👤 **Bertrand Mutangana Ishimwe**
+👤 **Mugisha Samuel**
 
-- GitHub: [@BertrandConxy](https://github.com/mugishasam123)
-- Twitter: [@Bconxy](https://twitter.com/mugishasamuel42/)
-- LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
+- GitHub: [@mugishasamuel](https://github.com/mugishasam123)
+- Twitter: [@mugishsamuel](https://twitter.com/mugishasamuel42/)
+- LinkedIn: [mugishasamuel](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
 
 ## 🤝 Contributing
 
