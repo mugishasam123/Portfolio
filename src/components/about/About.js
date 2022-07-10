@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward, FaUsers, FaFolderOpen } from 'react-icons/fa';
 import './about.css';
-import myProfile from '../../assets/best-profile.png';
+import myProfile from '../../assets/me-removebg-preview.png';
 
 const About = () => (
   <section id="about">
@@ -18,7 +18,7 @@ const About = () => (
           <article className="about__card">
             <FaAward className="about__icon" />
             <h5>Experience</h5>
-            <small>2+ years working</small>
+            <small>3+ years working</small>
           </article>
 
           <article className="about__card">
@@ -35,21 +35,12 @@ const About = () => (
         </div>
 
         <p>
-          Stand-alone Full-Stack Developer. I am an author and a builder. If
-          you&lsquo;ve ever visited a website with an outstanding user interface
-          and had a memorable experience interacting with it, that&lsquo;s the
-          kind of websites I build. I&lsquo;ve been doing this for more than two
-          years. I studied at Microverse, an online software development school
-          based in California, USA. It equiped me with internation-standard
-          software development skills, remote working and working in a
-          cross-cultural environment. I worked with Juubix ltd, a collaboration
-          and finance software based in London, UK. I was part of the Front-end
-          development team and also digital marketing team. This equiped me with
-          the ability to work in various department in workspace while
-          maintaining the overall productivity. I can help start-ups and individuals
-          who want to turn their ideas into a finished product ready to serve
-          the community. I can also add value to any bussiness where I can help
-          them connect with their customers anytime everywhere.
+          Hello everyone, my name is Samuel has a goal of contributing to a big scale project that is used globally one day
+
+          I would like to work in your company because of the good mission of the company and good working environment which will enhance my productivity.
+          I have a goal of working as a senior tech lead developer in my early twenties. I previously did morgan chase's virtual experience program where I get to know how software development is done in a big industry currently.
+          I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork. besides that, I did many different projects featuring group and solo projects which gave me a strong foundation in javascript, react js, Ruby, and Ruby on Rails.
+          I am excited about the opportunity to work remotely with a strong tech company and I am proud of the steps I am taking to achieve this. this will help me to put my skills into action and learn more about the tech industry. Would you like to discuss further with me?.
         </p>
 
         <a href="#contact" className="btn btn-primary">

@@ -1,66 +1,66 @@
 import React from 'react';
 import AnalyticsEventTracker from '../eventsTracker/AnalyticsEventTracker';
 import './portfolio.css';
-import ProjectImage1 from '../../assets/stock-market.png';
-import ProjectImage2 from '../../assets/space-travellers.png';
-import ProjectImage3 from '../../assets/my-portfolio.png';
-import ProjectImage4 from '../../assets/cinemash.png';
-import ProjectImage5 from '../../assets/isomo-online.png';
-import ProjectImage6 from '../../assets/umuhanzi-thumbnail.jpg';
+import ProjectImage1 from '../../assets/bookstore.PNG';
+import ProjectImage2 from '../../assets/portfolio.PNG';
+import ProjectImage3 from '../../assets/carRental.PNG';
+import ProjectImage4 from '../../assets/showmania.PNG';
+import ProjectImage5 from '../../assets/spacehub.PNG';
+import ProjectImage6 from '../../assets/stocks.PNG';
 
 const projectData = [
   {
     id: 1,
     image: ProjectImage1,
-    title: 'Stock Market Trends',
-    description: 'Browse different active companies on the NewYork Stock Exchange Market, view company profile and past financial statement records.',
-    github: 'https://github.com/BertrandConxy/Stocks-market-trends',
-    demo: 'https://stockmarkettrends.netlify.app/',
+    title: 'Bookstore CMS',
+    description: 'It is an app that allows you to display a list of added books, add new book and remove a book',
+    github: 'https://github.com/mugishasam123/Bookstore--CMS',
+    demo: 'https://sambookstore.netlify.app/',
   },
 
   {
     id: 2,
     image: ProjectImage2,
-    title: "Space Traveller's Hub",
-    description: 'Browse available Space Rocket launch and dragons as announced by SpaceX corporation. Reserve on and join your favorite missions among the available.',
-    github: 'https://github.com/BertrandConxy/Space-Travellers-Hub',
-    demo: 'https://spacecrafthub.netlify.app/',
+    title: "Portfolio",
+    description: 'this is the complete version of my portfolio project I built to implement best html5 and css3 best practices',
+    github: 'https://github.com/mugishasam123/Personal-portfolio',
+    demo: 'https://portfolio40.netlify.app/',
   },
 
   {
     id: 3,
     image: ProjectImage3,
-    title: 'My Portfolio website',
-    description: 'Get to know who I am as a Full-Stack developer, view my skills, services I offer, experience that I have and testimonials from my clients and developers.',
-    github: 'https://github.com/BertrandConxy/bertrand-portfolio',
-    demo: 'https://bertrandmutangana.netlify.app/',
+    title: 'Car Rentals',
+    description: 'A car booking app where a user can rent a car. The app also presents Admin privileges where an Admin can Add and Delete cars. This is engineered using Ruby on Rails as backend and React as front end. In this repository we have the frontend. The backend can be found here',
+    github: 'https://github.com/mugishasam123/Rent-a-car-FE',
+    demo: 'https://rent-a-car-fe.netlify.app/',
   },
 
   {
     id: 4,
     image: ProjectImage4,
-    title: 'Cinemash',
-    description: 'Browse different movies and find the detailed information about each. Like, comment and reserve your favorite on Cinemash.',
-    github: 'https://github.com/BertrandConxy/JS-Capstone-Project',
-    demo: 'https://cinemash.netlify.app/',
+    title: 'Show Mania',
+    description: 'ShowMania is a website for shows where you can get in find your favourite show like it and leave a comment. It is built with HTML, CSS and JavaScript with data from TvMaze API(tv show data) and the Involvement API(likes and comments).',
+    github: 'https://github.com/mugishasam123/Show-Mania',
+    demo: 'https://showmania42.netlify.app/',
   },
 
   {
     id: 5,
     image: ProjectImage5,
-    title: 'Isomo Online',
-    github: 'https://github.com/BertrandConxy/Isomo-online',
-    description: 'This is E-learning platform where people can browse different courses available, enroll for getting the course and also get in touch with the teachers.',
-    demo: 'https://isomonline.netlify.app/',
+    title: 'Space hub',
+    github: 'https://github.com/mugishasam123/Space-hub',
+    description: 'SpaceHub is an app that allows you to display a list of rockets,missions and you can reserve rockets ,enter missions and cancel reservation ,leave missions using spaceX api.',
+    demo: 'https://spacehub45.netlify.app/',
   },
 
   {
     id: 6,
     image: ProjectImage6,
-    title: 'Umuhanzi Concert Website',
-    github: 'https://github.com/BertrandConxy/umuhanzi-concert-website',
-    description: 'Website for an even organising company where they can announce the upcoming event, provide all the details and people will be able to buy ticket on the site.',
-    demo: 'https://bertrandconxy.github.io/umuhanzi-concert-website/',
+    title: 'Stocks Metrics',
+    github: 'https://github.com/mugishasam123/Stock-metrics',
+    description: 'Stock metrics is an app that allows you to display active stocks of companies ,and you can see I ncome statement of past 5 years by selecting any company.It is built with react and redux .',
+    demo: 'https://stock-metrics42.netlify.app/',
   },
 ];
 

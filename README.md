@@ -2,16 +2,9 @@
 
 # My Portfolio website
 > This is my portfolio website showcasing who I am, my skills, the services I provide, the  experience I have in this field and what other people who we have worked together talk about me. It is built with React.js
-
-# Screenshoot
-
-## Mobile-First
-![portfolio-mobile](https://user-images.githubusercontent.com/90222110/159469034-5d0b1854-2155-449a-be58-1aeb6abf47be.png)
-
-
 ## Desktop view
 
-![portfolio-desk](https://user-images.githubusercontent.com/90222110/159469025-640252c1-1814-42ac-b2a5-303ae91c99ea.png)
+![portfolio-desk](./src//assets/screen.PNG)
 
 
 # Live demo
@@ -58,8 +51,8 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git@github.com:BertrandConxy.bertrand-portfolio.git
-$ cd bertrand-portfolio
+$ git clone `https://github.com/mugishasam123/Portfolio.git`
+$ cd Portfolio
 ```
 #### Run project
 
@@ -79,18 +72,16 @@ $ runs on http://localhost:3000/
 
 👤 **Bertrand Mutangana Ishimwe**
 
-- GitHub: [@BertrandConxy](https://github.com/BertrandConxy)
-- Twitter: [@Bconxy](https://twitter.com/BertrandMutanga)
-- LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/bertrandmutangana)
+- GitHub: [@BertrandConxy](https://github.com/mugishasam123)
+- Twitter: [@Bconxy](https://twitter.com/mugishasamuel42/)
+- LinkedIn: [Bertrand Mutangana Ishimwe](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BertrandConxy/bertrand-portfolio/issues).
+Feel free to check the [issues page](https://github.com/mugishasam123/Portfolio/issues).
 
-## Acknowledgement
-Original design idea by EGATOR designer.
 
 ## Show your support
 

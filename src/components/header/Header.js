@@ -1,14 +1,14 @@
 import React from 'react';
 import './header.css';
 import CTA from './CTA';
-import myPhoto from '../../assets/profile1-removebg-preview.png';
+import myPhoto from '../../assets/me-removebg-preview.png';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => (
   <header id="home">
     <div className="container header__container">
       <h5>Hello I&lsquo;m</h5>
-      <h1>Bertrand Mutangana</h1>
+      <h1>Mugisha Samuel</h1>
       <h5 className="text-light">Full-stack Developer</h5>
       <CTA />
       <HeaderSocials />
