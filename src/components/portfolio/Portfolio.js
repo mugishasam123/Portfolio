@@ -21,7 +21,7 @@ const projectData = [
   {
     id: 2,
     image: ProjectImage2,
-    title: "Portfolio",
+    title: 'Portfolio',
     description: 'this is the complete version of my portfolio project I built to implement best html5 and css3 best practices',
     github: 'https://github.com/mugishasam123/Personal-portfolio',
     demo: 'https://portfolio40.netlify.app/',
